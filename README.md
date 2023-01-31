@@ -650,7 +650,7 @@ margin-top: 0;
 }
 ```
 
-- Please always remember to save and exit the vim editor
+- Please always remember to save and exit the vim editor. This can be done by clicking on the `esc` key then `:wq` to save and exit.
 
 - In the src directory open the index.css
 
